@@ -1,0 +1,6 @@
+flask
+trafilatura
+openai
+playwright
+weasyprint
+
